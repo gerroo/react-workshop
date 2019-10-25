@@ -4,9 +4,9 @@ export default () => {
   return (
     <div>
     <h1>
-    Home{" "}
-    <Link href="/profile">
-      <Button><h2>profile</h2></Button>
+    Profile{" "}
+    <Link href="/">
+      <Button><h2>home</h2></Button>
     </Link>
     </h1>
     </div>
